@@ -7,7 +7,9 @@
 # AIM:
 
 To Develop a python program to Plot a time series data on Coffee Sales
-
+#
+#
+#
 # ALGORITHM:
 
 
@@ -47,7 +49,10 @@ plt.ylabel("coffee name")
 
 ```
 
-
+##
+##
+##
+##
 # OUTPUT:
 
 
