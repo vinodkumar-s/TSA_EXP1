@@ -25,8 +25,9 @@ To Develop a python program to Plot a time series data on Coffee Sales
  
  7.Display the plot: Use plt.show() to display the final plot.
 
- 
-
+#
+#
+#
 # PROGRAM:
 
 
