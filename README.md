@@ -8,13 +8,19 @@
 To Develop a python program to Plot a time series data on Coffee Sales
 
 # ALGORITHM:
-#### 1.Import the necessary libraries: Import pandas, numpy, and matplotlib.pyplot.
-#### 2.Load the CSV data: Use pandas.read_csv to load the first 50 rows of the data from index.csv into a DataFrame.
-#### 3.Preview the data: Use DataFrame.head() to display the first 10 rows of the DataFrame.
-#### 4.Group and count data: Group the data by date and coffee_name, then count the occurrences for each group.
-#### 5.Create the plot: Use matplotlib to create a line plot that shows the count of each coffee_name by date.
-#### 6.Customize the plot: Add a title, labels, and rotate the x-axis labels for better readability.
-#### 7.Display the plot: Use plt.show() to display the final plot.
+ 1.Import the necessary libraries: Import pandas, numpy, and matplotlib.pyplot.
+ 
+ 2.Load the CSV data: Use pandas.read_csv to load the first 50 rows of the data from index.csv into a DataFrame.
+ 
+ 3.Preview the data: Use DataFrame.head() to display the first 10 rows of the DataFrame.
+ 
+ 4.Group and count data: Group the data by date and coffee_name, then count the occurrences for each group.
+ 
+ 5.Create the plot: Use matplotlib to create a line plot that shows the count of each coffee_name by date.
+ 
+ 6.Customize the plot: Add a title, labels, and rotate the x-axis labels for better readability.
+ 
+ 7.Display the plot: Use plt.show() to display the final plot.
 
 # PROGRAM:
 ```python
