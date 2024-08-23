@@ -4,12 +4,19 @@
 
 # Ex.No: 01A PLOT A TIME SERIES DATA
 
+
+
 # AIM:
 
 To Develop a python program to Plot a time series data on Coffee Sales
-#
-#
-#
+
+
+
+
+
+
+
+
 # ALGORITHM:
 
 
@@ -27,9 +34,13 @@ To Develop a python program to Plot a time series data on Coffee Sales
  
  7.Display the plot: Use plt.show() to display the final plot.
 
-#
-#
-#
+
+
+
+
+
+
+
 # PROGRAM:
 
 
@@ -49,10 +60,12 @@ plt.ylabel("coffee name")
 
 ```
 
-##
-##
-##
-##
+
+
+
+
+
+
 # OUTPUT:
 
 
