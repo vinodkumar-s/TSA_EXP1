@@ -1,6 +1,6 @@
-# Developed By: VINOD KUMAR S
-# Register No: 212222240116
-# Date:
+### Developed By: VINOD KUMAR S
+### Register No: 212222240116
+### Date:
 
 # Ex.No: 01A PLOT A TIME SERIES DATA
 
