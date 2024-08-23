@@ -5,9 +5,12 @@
 # Ex.No: 01A PLOT A TIME SERIES DATA
 
 # AIM:
+
 To Develop a python program to Plot a time series data on Coffee Sales
 
 # ALGORITHM:
+
+
  1.Import the necessary libraries: Import pandas, numpy, and matplotlib.pyplot.
  
  2.Load the CSV data: Use pandas.read_csv to load the first 50 rows of the data from index.csv into a DataFrame.
@@ -22,7 +25,12 @@ To Develop a python program to Plot a time series data on Coffee Sales
  
  7.Display the plot: Use plt.show() to display the final plot.
 
+ 
+
 # PROGRAM:
+
+
+
 ```python
 
 import pandas as pd
@@ -41,7 +49,9 @@ plt.ylabel("coffee name")
 
 # OUTPUT:
 
+
 ![Screenshot 2024-08-16 093407](https://github.com/user-attachments/assets/f00d4b00-d8dc-434e-971b-3531dc889ebb)
+
 
 
 # RESULT:
