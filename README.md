@@ -12,11 +12,6 @@ To Develop a python program to Plot a time series data on Coffee Sales
 
 
 
-
-
-
-
-
 # ALGORITHM:
 
 
@@ -33,12 +28,8 @@ To Develop a python program to Plot a time series data on Coffee Sales
  6.Customize the plot: Add a title, labels, and rotate the x-axis labels for better readability.
  
  7.Display the plot: Use plt.show() to display the final plot.
-
-
-
-
-
-
+  <br />
+   <br />
 
 
 # PROGRAM:
@@ -59,13 +50,8 @@ plt.xticks(rotation=45)
 plt.ylabel("coffee name")
 
 ```
-
-
-
-
-
-
-
+ <br />
+ <br />
 # OUTPUT:
 
 
