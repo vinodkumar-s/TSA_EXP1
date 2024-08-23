@@ -6,13 +6,13 @@
 
 
 
-# AIM:
+## AIM:
 
 To Develop a python program to Plot a time series data on Coffee Sales
 
 
 
-# ALGORITHM:
+## ALGORITHM:
 
 
  1.Import the necessary libraries: Import pandas, numpy, and matplotlib.pyplot.
@@ -32,7 +32,7 @@ To Develop a python program to Plot a time series data on Coffee Sales
    <br />
 
 
-# PROGRAM:
+## PROGRAM:
 
 
 
@@ -50,9 +50,11 @@ plt.xticks(rotation=45)
 plt.ylabel("coffee name")
 
 ```
- <br />
- <br />
-# OUTPUT:
+<br />
+<br />
+<br />
+<br />
+## OUTPUT:
 
 
 ![Screenshot 2024-08-16 093407](https://github.com/user-attachments/assets/f00d4b00-d8dc-434e-971b-3531dc889ebb)
